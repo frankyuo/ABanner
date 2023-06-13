@@ -13,7 +13,7 @@ rm motd
 rm bash.bashrc
 mv bash1.bashrc bash.bashrc
 clear
-figlet -f big ABanner | lolcat
+figlet -f big ABanner
 cyan='[0;36m'
 lightgreen='[1;32m'
 red='[1;31m'
