@@ -1,11 +1,13 @@
 #¡ bin/bash/
 clear
-mv bash.bashrc ~/../usr/etc
 cd 
 cd ..
 cd usr
 cd etc
 rm bash.bashrc
+cd 
+cd ABanner
+mv bash.bashrc ~/usr/etc
 clear
 figlet -f big ABanner Removed | lolcat
 cyan='[0;36m'
