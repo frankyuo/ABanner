@@ -7,7 +7,7 @@ cd etc
 rm bash.bashrc
 cd 
 cd ABanner
-mv bash.bashrc ~/usr/etc
+mv bash.bashrc ~/../usr/etc
 clear
 figlet -f big ABanner Removed | lolcat
 cyan='[0;36m'
