@@ -3,7 +3,7 @@ clear
 pkg install git -y
 pkg install ruby -y
 pkg install neofetch -y
-mv bash1.bashrc ~/../usr/etc
+mv bash1.bashrc ~/usr/etc
 cd 
 cd ..
 cd usr
