@@ -9,7 +9,7 @@ cd
 cd ABanner
 mv bash.bashrc ~/../usr/etc
 clear
-figlet -f big ABanner Removed | lolcat
+figlet -f big ABanner Removed
 cyan='[0;36m'
 lightgreen='[1;32m'
 red='[1;31m'
