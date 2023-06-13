@@ -20,10 +20,3 @@ PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
 # Handles nonexistent commands.
 # If user has entered command which invokes non-available
 # utility, command-not-found will give a package suggestions.
-if [ -x /data/data/com.termux/files/usr/libexec/termux/command->
-        command_not_found_handle() {
-                /data/data/com.termux/files/usr/libexec/termux/>
-        }
-fi
-
-[ -r /data/data/com.termux/files/usr/share/bash-completion/bash>
