@@ -20,9 +20,15 @@ cyan='[0;36m'
 lightgreen='[1;32m'
 red='[1;31m'
 yellow='[1;33m'
-echo [0;36m " Grcias por elegirnos! -ABanner support-"
-echo [1;32m " by frakyuo"
+echo " Grcias por elegirnos!"
+echo " thank you for choosing us!"
+echo " -ABanner support-"
+echo " by frakyuo"
+clear
 neofectch
-echo [0;36m " Grcias por elegirnos! -ABanner support-"
-echo [1;32m " by frakyuo"
-exit
+echo " Grcias por elegirnos!"
+echo " thank you for choosing us!"
+echo " -ABanner support-"
+echo " by frakyuo"
+figlet -f small istalación finalizada
+fin
