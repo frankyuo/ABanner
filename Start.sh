@@ -5,6 +5,8 @@ pkg install ruby -y
 pkg install neofetch -y
 pkg install figlet -y
 mv bash1.bashrc ~/../usr/etc
+rm Redame.md
+rm Security.md
 cd 
 cd ..
 cd usr
