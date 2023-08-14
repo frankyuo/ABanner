@@ -1,5 +1,5 @@
 # Termux ABanner
-#Script by Frankyuo
+#Script by frankyuo
 
 ## Installation :
 
